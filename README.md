@@ -1,1 +1,2 @@
 # Autonomous-Microclimate-Regulation-System
+Building a solar-powered, edge-AI-based microclimate regulation system that helps small-scale farmers manage crop stress autonomously. I design and assemble the embedded hardware using ESP32, integrate environmental sensors, develop low-power solar battery systems, and build actuator control circuits for responsive field operation. My work includes implementing real-time stress detection logic, calibrating sensors, and collaborating with the software team to enable ML model integration and cloud monitoring.
